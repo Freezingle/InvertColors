@@ -11,4 +11,4 @@ git clone https://github.com/Freezingle/InvertColors
 #4 Load the extension 
 => click 'load unpacked" and select the cloned folder
 
-That's it the silly little extention is installed and ready to use! 
+That's it!  The silly little extention is installed and ready to use! 
